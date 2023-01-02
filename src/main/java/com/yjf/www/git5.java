@@ -5,5 +5,6 @@ public class git5 {
         System.out.println("nihao01");
         System.out.println("nihao02");
         System.out.println("nihao03");
+        System.out.println("master分支");
     }
 }
