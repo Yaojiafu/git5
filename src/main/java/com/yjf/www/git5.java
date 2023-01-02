@@ -6,5 +6,6 @@ public class git5 {
         System.out.println("nihao02");
         System.out.println("nihao03");
         System.out.println("master分支");
+        System.out.println("hot-fix分支");
     }
 }
